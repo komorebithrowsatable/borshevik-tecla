@@ -14,6 +14,8 @@ BuildRequires:  glib2-devel
 BuildRequires:  gtk4-devel
 BuildRequires:  libadwaita-devel
 BuildRequires:  pkgconfig
+BuildRequires:  libxkbcommon-devel
+
 
 Provides:       tecla
 
