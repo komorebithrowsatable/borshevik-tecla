@@ -21,7 +21,7 @@ Provides:       tecla
 Tecla is a fuzzy search library used by GNOME components such as GNOME Control Center.
 
 %prep
-%autosetup -n tecla-%{version}
+%autosetup -n libtecla
 
 %build
 %meson
