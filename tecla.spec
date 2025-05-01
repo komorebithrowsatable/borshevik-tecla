@@ -33,10 +33,7 @@ Tecla is a fuzzy search library used by GNOME components such as GNOME Control C
 %meson_install
 
 %files
-%license COPYING
-%{_libdir}/libtecla.so*
-%{_libdir}/pkgconfig/tecla.pc
-%{_includedir}/tecla/
+%doc README.md
 
 %changelog
 %autochangelog
