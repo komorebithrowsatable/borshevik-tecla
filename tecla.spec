@@ -37,5 +37,4 @@ Tecla is a fuzzy search library used by GNOME components such as GNOME Control C
 %{_includedir}/tecla/
 
 %changelog
-* Wed May 01 2025 Komorebi <markovs.i.mail@gmail.com> - 48.0.2-1
-- Initial package of tecla library used by GNOME Control Center
+%autochangelog
